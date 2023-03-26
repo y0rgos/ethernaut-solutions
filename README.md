@@ -49,3 +49,6 @@ Run on the console
 ```
 contract.unlock("0x412076657279207374726f6e67207365637265742070617373776f7264203a29")
 ```
+
+### King
+deploy [king/BecomeTheKing.sol])(king/BecomeTheKing.sol), and execute ```becomeTheKing()``` with more gas
